@@ -2,16 +2,16 @@
 <div align="center">
 
 ```
-╔══════════════════════════════════════════════════════╗
-║   > initializing naven.ron.oblepias.dev...           ║
-║   > role: Frontend Dev · UI/UX · Graphic Design      ║
-║   > status: Building the future, one pixel at a time ║
-╚══════════════════════════════════════════════════════╝
+╔════════════════════════════════════════════════════════════╗
+║   > initializing naven.ron.oblepias.dev...                 ║
+║   > role: Frontend Dev · UI/UX · AI Trainer · Prompt Engr. ║
+║   > status: Building the future, one pixel at a time       ║
+╚═══════════════════════════════════════════════════════════╝
 ```
 
 # Hey, I'm Naven Ron Oblepias 👾
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Frontend+Developer;UI%2FUX+Designer;Prompt+Engineer;AI+Trainer+%F0%9F%A4%96)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Frontend+Developer;UI%2FUX+Designer;Prompt+Engineer;AI+Trainer/RLFH+Specialist+%F0%9F%A4%96)](https://git.io/typing-svg)
 
 <img src="https://komarev.com/ghpvc/?username=naven-ron&style=flat-square&color=00d9ff&label=PROFILE+VIEWS" />
 
@@ -83,9 +83,3 @@ philosophy: "Design is not just what it looks like — it's how it works."
   └── Practical AI Application Development
 ```
 
-
-<div align="center">
-
-⭐️ *If you like what you see, consider starring some repos!* ⭐️
-
-</div>
