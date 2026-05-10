@@ -1,13 +1,3 @@
-<!-- Header Banner -->
-<div align="center">
-
-```
-╔════════════════════════════════════════════════════════════╗
-║   > initializing naven.ron.oblepias.dev...                 ║
-║   > role: Frontend Dev · UI/UX · AI Trainer · Prompt Engr. ║
-║   > status: Building the future, one pixel at a time       ║
-╚════════════════════════════════════════════════════════════╝
-```
 
 # Hey, I'm Naven Ron Oblepias 👾
 
