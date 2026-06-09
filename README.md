@@ -1,10 +1,13 @@
-<center>
-# Hey, I'm Naven Ron Oblepias 👾
+<div align="center">
 
+  <h1>Hey, I'm Naven Ron Oblepias 👾</h1>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Frontend+Developer;UI%2FUX+Designer;Prompt+Engineer;AI+Trainer/RLFH+Specialist+%F0%9F%A4%96)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Frontend+Developer;UI%2FUX+Designer;Prompt+Engineer;AI+Trainer/RLFH+Specialist+%F0%9F%A4%96)](https://git.io/typing-svg)
+  
+  <br />
+  <br />
 
-<img src="https://komarev.com/ghpvc/?username=naven-ron&style=flat-square&color=00d9ff&label=PROFILE+VIEWS" />
+  <img src="https://komarev.com/ghpvc/?username=naven-ron&style=flat-square&color=00d9ff&label=PROFILE+VIEWS" alt="Profile Views" />
 
 </div>
 
